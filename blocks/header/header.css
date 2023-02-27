@@ -1,0 +1,6 @@
+.header {
+	display: grid;
+	grid-template-columns: auto repeat(2, minmax(min-content, max-content));
+	align-items: end;
+	gap: 18px;
+}
