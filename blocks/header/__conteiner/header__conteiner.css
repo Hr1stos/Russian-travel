@@ -1,0 +1,14 @@
+.header__conteiner {
+	list-style: none;
+	display: flex;
+	justify-content: end;
+	align-items: end;
+	margin-bottom: 6px;
+	padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+	.header__conteiner {
+		margin-bottom: 8px;
+	}
+}
