@@ -24,4 +24,4 @@
 	 7. Файловая структура проекта организована по методологии БЭМ (подход Nested)
 
 **Адрес сайта**
-	https://hr1stos.github.io/russian-travel/
+	https://hr1stos.github.io/Russian-travel/
